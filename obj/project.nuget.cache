@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1pq3zKqZYE=",
+  "success": true,
+  "projectFilePath": "/home/salman/Documents/Code/C#/3dFromScratch/3dFromScratch.csproj",
+  "expectedPackageFiles": [
+    "/home/salman/.nuget/packages/raylib-cs/7.0.2/raylib-cs.7.0.2.nupkg.sha512",
+    "/home/salman/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

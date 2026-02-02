@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dFromScratch", "3dFromScratch.csproj", "{1DC20908-F331-A02E-FB92-12D42BF22ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC20908-F331-A02E-FB92-12D42BF22ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC20908-F331-A02E-FB92-12D42BF22ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC20908-F331-A02E-FB92-12D42BF22ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC20908-F331-A02E-FB92-12D42BF22ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033BE35A-6099-429A-8C63-48BBAF51C5BE}
+	EndGlobalSection
+EndGlobal
