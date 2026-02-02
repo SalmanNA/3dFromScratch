@@ -79,6 +79,7 @@ static void point(Coord p)
 
 }
 
+//Converts normalized coordinate to screen coordiante
 static Coord screen(Coord p)
 {
     float screenX = (p.X + 1.0f) / 2 * width;
@@ -86,6 +87,7 @@ static Coord screen(Coord p)
     return new Coord(screenX, screenY);
 }
 
+//Projects 3D coordinate to 2D space
 static Coord project(Coord3D p)
 {
     return new Coord(
